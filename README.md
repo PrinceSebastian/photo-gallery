@@ -24,7 +24,7 @@ photo-gallery
 		<img class="image" id="2" src="image2.jpg" >
 		 
 		<img class="image" id="3" src="image3.jpg" >
-	 
+	
 		<img class="image" id="4" src="image4.jpg" >
 	
 		<img class="image" id="5" src="image5.jpg" >
